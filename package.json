@@ -1,0 +1,6 @@
+{
+  "name": "bingo-en-vivo",
+  "version": "6.1.0",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" }
+}
